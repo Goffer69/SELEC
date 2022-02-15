@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\sdfsdf\bin\Debug\net5.0\sdfsdf.exe
+C:\Users\Admin\Desktop\sdfsdf\bin\Debug\net5.0\sdfsdf.deps.json
+C:\Users\Admin\Desktop\sdfsdf\bin\Debug\net5.0\sdfsdf.runtimeconfig.json
+C:\Users\Admin\Desktop\sdfsdf\bin\Debug\net5.0\sdfsdf.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\sdfsdf\bin\Debug\net5.0\sdfsdf.dll
+C:\Users\Admin\Desktop\sdfsdf\bin\Debug\net5.0\ref\sdfsdf.dll
+C:\Users\Admin\Desktop\sdfsdf\bin\Debug\net5.0\sdfsdf.pdb
+C:\Users\Admin\Desktop\sdfsdf\obj\Debug\net5.0\sdfsdf.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\sdfsdf\obj\Debug\net5.0\sdfsdf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\sdfsdf\obj\Debug\net5.0\sdfsdf.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\sdfsdf\obj\Debug\net5.0\sdfsdf.AssemblyInfo.cs
+C:\Users\Admin\Desktop\sdfsdf\obj\Debug\net5.0\sdfsdf.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\sdfsdf\obj\Debug\net5.0\sdfsdf.dll
+C:\Users\Admin\Desktop\sdfsdf\obj\Debug\net5.0\ref\sdfsdf.dll
+C:\Users\Admin\Desktop\sdfsdf\obj\Debug\net5.0\sdfsdf.pdb
+C:\Users\Admin\Desktop\sdfsdf\obj\Debug\net5.0\sdfsdf.genruntimeconfig.cache
